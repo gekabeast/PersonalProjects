@@ -1,10 +1,9 @@
 //after looking over these old programs I came across another method and it didn't seem like a normal series. 
-//also I decided to write it in c++ because I like it a lot more than the baby language which calls itself python. 
 //after researching, I found out that the Leibniz formula can be converted to a Dirichlet series. After researching more about that, it seems like it is a series with 
 // complex (lateral) components, apologizes to any math major reading this if im wrong.  
 
 //It is also called an euler product. 
-//the series isn't adding every term, but rather multiplying. 
+//the series isn't adding every term, but multiplying. 
 //Each term is: 
 //                      (the next prime number)
 //                   _____________________________      (divided by)
