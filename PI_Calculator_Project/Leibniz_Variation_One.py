@@ -1,3 +1,7 @@
+
+#After searching for a formula which models what I have made here, I couldn't find anything. 
+#But here is another program which finds pi. 
+
 import math
 
 multiplication_constant = 1/(math.sqrt(3))
